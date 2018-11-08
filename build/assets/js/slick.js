@@ -1,0 +1,1 @@
+$(".project-detail").slick({slidesToShow:1,arrows:!1,asNavFor:".project-strip",autoplay:!0,autoplaySpeed:1e3}),$(".project-strip").slick({slidesToShow:5,slidesToScroll:1,arrows:!1,asNavFor:".project-detail",dots:!1,infinite:!0,centerMode:!0,focusOnSelect:!0});
